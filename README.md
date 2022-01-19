@@ -9,13 +9,14 @@ This project creates 2 financial planning tools for the members of a fictitious 
 
 ### Technologies
 
-Python
-Pandas
-alpaca_trade_api
-MCForecastTools
-json
+* Python
+* Pandas
+* alpaca_trade_api
+* MCForecastTools
+* json
 
 ### Links
 
-[Personal Finance Planner starter code](Starter_Code/financial-planner.ipynb)
-[MCForecastTools toolkit](Starter_Code/MCForecastTools.py)
+* [Free Crypto API Documentation](https://alternative.me/crypto/api/)
+
+* [AlpacaDOCS](https://alpaca.markets/docs/)
